@@ -1,2 +1,0 @@
-# placeholder content
-hello there.
